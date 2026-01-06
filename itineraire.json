@@ -1,0 +1,180 @@
+{
+  "pays": "Pologne",
+  "drapeau": "🇵🇱",
+  "symbole": "🏰",
+  "titre": "Escapade relaxante à Cracovie, la perle polonaise",
+  "budget_total": "Environ 600-750 €/personne",
+  "duree": "3 jours",
+  "temps_vol": "2h15 (depuis Paris, France)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion dans la Vieille Ville",
+      "legende": "Après un vol direct et rapide, installez-vous confortablement avant de vous immerger dans l'atmosphère médiévale de Cracovie. La première journée est dédiée à une douce découverte de la Rynek Główny, l'une des plus grandes places médiévales d'Europe, et de ses environs immédiats, pour une entrée en matière tout en sérénité.",
+      "lieu": "Cracovie",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Cracovie (KRK)</strong>: Prenez un bus ou un train pour rejoindre le centre-ville, un trajet simple et rapide.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Déposez vos bagages et rafraîchissez-vous dans votre hébergement, idéalement situé près de la Vieille Ville.",
+        "<strong>🚶‍♂️ Balade sur la Place du Marché (Rynek Główny)</strong>: Flânez sur cette place emblématique, admirez la Basilique Sainte-Marie et la Halle aux Draps, et imprégnez-vous de l'ambiance animée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Cracovie-Jean-Paul II, Cracovie",
+          "categorie": "Aéroport",
+          "coords": { "lat": 50.0777, "lng": 19.7848 }
+        },
+        {
+          "nom_recherche": "Rynek Główny, Cracovie",
+          "categorie": "Place",
+          "coords": { "lat": 50.0617, "lng": 19.9369 }
+        },
+        {
+          "nom_recherche": "Basilique Sainte-Marie, Cracovie",
+          "categorie": "Église",
+          "coords": { "lat": 50.0615, "lng": 19.9387 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport aéroport",
+          "texte": "Le train \"Koleje Małopolskie\" relie l'aéroport au centre-ville (Gare Centrale) en environ 17 minutes, pour un coût modique. C'est l'option la plus rapide et confortable."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🚶‍♀️",
+      "titre": "Découverte du quartier juif et détente au bord de la Vistule",
+      "legende": "Cette journée est dédiée à l'exploration du quartier historique de Kazimierz, riche en histoire et en atmosphère bohème. Laissez-vous porter par ses ruelles, ses synagogues et ses cafés. L'après-midi, une balade relaxante le long de la Vistule offrira une perspective différente sur la ville, loin de l'agitation urbaine.",
+      "lieu": "Cracovie",
+      "activites": [
+        "<strong>🕍 Exploration du quartier de Kazimierz</strong>: Promenez-vous dans l'ancien quartier juif, découvrez ses synagogues historiques et ses charmantes galeries d'art.",
+        "<strong>☕ Pause café et ambiance bohème</strong>: Profitez de l'un des nombreux cafés pittoresques de Kazimierz pour une pause gourmande et relaxante.",
+        "<strong>🛶 Croisière douce sur la Vistule</strong>: Embarquez pour une petite croisière sur le fleuve Vistule, offrant des vues imprenables sur le Château de Wawel et la ville, une activité parfaite pour se détendre."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Kazimierz, Cracovie",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 50.0500, "lng": 19.9450 }
+        },
+        {
+          "nom_recherche": "Synagogue Vieille, Cracovie",
+          "categorie": "Synagogue",
+          "coords": { "lat": 50.0538, "lng": 19.9472 }
+        },
+        {
+          "nom_recherche": "Vistule, Cracovie",
+          "categorie": "Fleuve",
+          "coords": { "lat": 50.0480, "lng": 19.9350 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Dégustation locale",
+          "texte": "Kazimierz regorge de restaurants proposant des spécialités juives et polonaises. Ne manquez pas de goûter un \"zapiekanka\" sur la Plac Nowy, une sorte de demi-baguette gratinée."
+        },
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Astuce balade",
+          "texte": "Les berges de la Vistule sont idéales pour une promenade à pied ou à vélo, offrant de belles perspectives sur le Château de Wawel et le Dragon."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "👑",
+      "titre": "Majesté de Wawel et départ",
+      "legende": "Pour cette dernière journée, plongez dans l'histoire royale de la Pologne avec la visite du majestueux Château de Wawel. Profitez d'une dernière balade relaxante dans ses jardins avant de vous diriger vers l'aéroport, emportant avec vous les souvenirs d'une Cracovie riche en culture et en douceur.",
+      "lieu": "Cracovie",
+      "activites": [
+        "<strong>🏰 Visite du Château Royal de Wawel</strong>: Explorez la cour du château, la Cathédrale de Wawel et, si le temps le permet, les appartements royaux ou le Trésor de la Couronne.",
+        "<strong>🐉 Descente dans la Grotte du Dragon de Wawel</strong>: Une petite aventure ludique pour découvrir la légende du dragon de Cracovie, une activité courte et rafraîchissante.",
+        "<strong>🛍️ Derniers achats et départ</strong>: Profitez des dernières heures pour quelques souvenirs dans la Vieille Ville avant de prendre le chemin de l'aéroport pour votre vol retour."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Château de Wawel, Cracovie",
+          "categorie": "Château",
+          "coords": { "lat": 50.0544, "lng": 19.9354 }
+        },
+        {
+          "nom_recherche": "Cathédrale de Wawel, Cracovie",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 50.0549, "lng": 19.9350 }
+        },
+        {
+          "nom_recherche": "Grotte du Dragon de Wawel, Cracovie",
+          "categorie": "Grotte",
+          "coords": { "lat": 50.0530, "lng": 19.9340 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil Wawel",
+          "texte": "Achetez vos billets pour le Château de Wawel en ligne à l'avance, surtout en haute saison, pour éviter les longues files d'attente. Les différentes sections ont des billets séparés."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 228 €/pers (A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 30-50 €/pers (transports locaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 120-180 €/pers (40-60€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 120-180 €/pers (3 nuits en hôtel 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 50-80 €/pers (entrées musées, croisière)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Décembre (Marchés de Noël)", "symbole": "🎄" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Złoty polonais (PLN). Les cartes de crédit sont largement acceptées, mais ayez un peu de liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Le polonais est la langue officielle. Dans les zones touristiques, l'anglais est généralement bien compris. Apprendre quelques mots de base comme \"Dzień dobry\" (Bonjour) est toujours apprécié.", "symbole": "🗣️" },
+    { "titre": "Cracovie est une ville très agréable à explorer à pied. Pour les distances plus longues, le réseau de tramways et de bus est efficace et économique.", "symbole": "🚶‍♀️" },
+    { "titre": "Les températures varient fortement selon la saison. En mai-septembre, prévoyez des couches, car les soirées peuvent être fraîches. En hiver, des vêtements très chauds sont indispensables.", "symbole": "🌡️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "🎺",
+      "titre": "Le trompettiste de Cracovie",
+      "texte": "Chaque heure, un trompettiste joue le \"Hejnal Mariacki\" depuis la tour de la Basilique Sainte-Marie. La mélodie s'arrête brusquement en souvenir d'un trompettiste médiéval qui aurait été tué par une flèche en alertant la ville d'une invasion mongole."
+    },
+    {
+      "symbole": "🐉",
+      "titre": "Le Dragon de Wawel",
+      "texte": "Selon la légende, un dragon terrifiant vivait sous le Château de Wawel et terrorisait les habitants. Il fut finalement vaincu par un jeune cordonnier rusé qui lui fit manger un mouton rempli de soufre, le faisant exploser après avoir bu toute l'eau de la Vistule."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🥟",
+      "titre": "Pierogi",
+      "description": "Ces raviolis polonais sont un incontournable. Ils peuvent être farcis de viande, de chou et champignons, de fromage blanc et pommes de terre (ruskie), ou même de fruits pour une version sucrée."
+    },
+    {
+      "symbole": "🥨",
+      "titre": "Obwarzanek Krakowski",
+      "description": "Un anneau de pain tressé, bouilli puis cuit au four, souvent garni de graines de sésame, de pavot ou de sel. C'est le snack emblématique de Cracovie, vendu par des vendeurs ambulants."
+    },
+    {
+      "symbole": "🍲",
+      "titre": "Żurek",
+      "description": "Une soupe aigre-douce traditionnelle à base de farine de seigle fermentée, souvent servie avec des œufs durs, de la saucisse blanche et des pommes de terre, parfois dans un bol en pain."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol Paris-Cracovie", "url": "https://www.kayak.fr/flights/CDG-KRK/2026-05-19/2026-05-22", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Office de Tourisme de Cracovie", "url": "https://www.krakow.pl/english/", "symbole": "📘" },
+    { "legende": "Transports en commun Cracovie", "titre": "MPK Kraków (Transports publics)", "url": "https://www.mpk.krakow.pl/en/", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo Cracovie", "url": "https://www.accuweather.com/fr/pl/krakow/276066/weather-forecast/276066", "symbole": "🌤️" }
+  ]
+}
